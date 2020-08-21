@@ -1,4 +1,21 @@
-### Hi there 👋
+
+[![Freaky Green Sunshine](https://florry.se/static/media/fgs.8a71ca58.jpg)](https://florry.se/project/freaky-green-sunshine)
+
+_[Freaky Green Sunshine](https://florry.se/project/freaky-green-sunshine)_
+
+---
+
+[LinkedIn profile](https://florry.se/project/freaky-green-sunshine)
+
+Programmer since 2010 👨‍💻
+- Nodejs
+- Javascript / Typescript
+- React & other javascript frameworks
+- Java, JavaEE, RxJava, LWJGL etc. 
+- Game design / development
+- Unrealscript
+
+among other things
 
 <!--
 **Florry/Florry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
