@@ -14,6 +14,7 @@ Programmer since 2010 👨‍💻
 - Java, JavaEE, RxJava, LWJGL etc. 
 - Game design / development
 - Unrealscript
+- C++
 
 among other things
 
