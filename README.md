@@ -1,10 +1,3 @@
-
-[![Freaky Green Sunshine](https://florry.se/static/media/fgs.8a71ca58.jpg)](https://florry.se/project/freaky-green-sunshine)
-
-_[Freaky Green Sunshine](https://florry.se/project/freaky-green-sunshine)_
-
----
-
 [LinkedIn profile](https://www.linkedin.com/in/viktor-s%C3%B6derstr%C3%B6m-6ba02162/)
 
 Programmer since 2010 👨‍💻
